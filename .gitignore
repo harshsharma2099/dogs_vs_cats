@@ -1,0 +1,9 @@
+# Folders
+.ipynb_checkpoints/
+data/
+weights/
+results/
+
+# Files
+.DS_Store
+vgg16_weights_tf_dim_ordering_tf_kernels.h5
